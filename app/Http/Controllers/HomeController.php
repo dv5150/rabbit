@@ -9,6 +9,6 @@ class HomeController extends Controller
      */
     public function index(): string
     {
-        return 'KECSKE!!!';
+        return view('template');
     }
 }
