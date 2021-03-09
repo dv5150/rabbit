@@ -11,8 +11,8 @@
 <div class="container pt-3">
     <div class="row">
         <div class="col-12 col-md-6">
-            <div class="card shadow-sm text-">
-                <div class="card-header">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
                     Title
                 </div>
                 <div class="card-body">
